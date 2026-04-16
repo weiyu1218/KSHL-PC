@@ -1,6 +1,7 @@
 # Data and generated results
 data/
 results/
+docs/
 
 # Python cache and build output
 __pycache__/
