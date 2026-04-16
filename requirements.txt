@@ -1,0 +1,32 @@
+﻿# KSHL-PC Requirements
+# Python 3.8+ compatible
+
+# Deep Learning
+torch>=1.12.1,<2.1.0
+torchvision>=0.13.0
+
+# Deep Hypergraph Library
+dhg>=0.9.3
+
+# Scientific Computing
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Graph and Network
+networkx>=2.6
+node2vec>=0.4.0
+
+# Data Processing
+pandas>=1.3.0
+
+# Utilities
+tqdm>=4.60.0
+gensim>=4.0.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# SHE Acceleration
+faiss-gpu
+
