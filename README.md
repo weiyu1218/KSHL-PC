@@ -47,6 +47,17 @@ KSHL-PC/
 
 `data/` stores benchmark datasets and processed biological resources. `results/` stores generated metrics, predictions, figures, and case-study outputs.
 
+## Data
+
+The `data/` directory is not tracked in this repository. Download the project data from [Google Drive](https://drive.google.com/drive/folders/16f2-PqNkOtBOYDYLq_pdyEItPSClf5Oj?usp=sharing) and place the extracted `data/` directory at the project root:
+
+```text
+KSHL-PC/
+  data/
+  experiments/
+  src/
+```
+
 ## Environment
 
 Create a Python environment and install dependencies:
